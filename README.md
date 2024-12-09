@@ -2,11 +2,11 @@
 
 * He aprendido :
   
-Java | Python |  HTML CSS  | Wordpress |  Bash | MariaDB 
+Java | Python |  HTML CSS  | Wordpress |  Bash | MariaDB  MySQL |  XML | ERP(odoo) 
 
 * Estoy aprendiendo :
 
- MySQL |  XML | ERP(odoo) |
+ Android Studio |  Kotlin | IA 
 
 * Quiero aprender :
 
