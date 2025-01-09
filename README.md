@@ -1,4 +1,4 @@
-# Progreso tegnologico
+# Progreso tecnologico
 
 * He aprendido :
   
