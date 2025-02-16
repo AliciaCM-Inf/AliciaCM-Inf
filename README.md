@@ -1,3 +1,13 @@
+#  ¡Hola! Soy Alicia Campo Mirón  
+### 💻 Técnica en Sistemas Microinformáticos y Redes 
+
+Soy una apasionada de la tecnología y el desarrollo de software. Actualmente, me estoy formando en **Desarrollo de Aplicaciones Multiplataforma**, combinando mis conocimientos en **sistemas y redes** con la programación.  
+
+Me encanta seguir aprendiendo y afrontar nuevos retos, por eso mi próximo objetivo es especializarme en **Inteligencia Artificial y Big Data**, áreas con un gran potencial de crecimiento.  
+
+ Aquí puedes ver mi evolución tecnológica y las herramientas con las que trabajo:  
+
+
 #  Progreso Tecnológico
 
 ## 📌 He aprendido:
